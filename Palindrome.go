@@ -6,7 +6,7 @@ import (
 
 func reverse(s string) string {
 	var rev strings.Builder
-	for i := len(s) - 1; i >= 0; i-- {
+	for i := len(s) - 1; i <= 0; i-- {
 		letter := string(s[i])
 		rev.WriteString(letter)
 	}
