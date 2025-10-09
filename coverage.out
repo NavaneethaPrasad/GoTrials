@@ -1,0 +1,26 @@
+mode: set
+goexercises/Abbreviate.go:8.34,12.29 3 1
+goexercises/Abbreviate.go:12.29,13.54 1 1
+goexercises/Abbreviate.go:13.54,15.4 1 1
+goexercises/Abbreviate.go:17.2,17.29 1 1
+goexercises/Fizzbizz.go:7.31,9.27 2 1
+goexercises/Fizzbizz.go:9.27,10.16 1 1
+goexercises/Fizzbizz.go:10.16,12.4 1 1
+goexercises/Fizzbizz.go:12.9,12.22 1 1
+goexercises/Fizzbizz.go:12.22,14.4 1 1
+goexercises/Fizzbizz.go:14.9,14.22 1 1
+goexercises/Fizzbizz.go:14.22,16.4 1 1
+goexercises/Fizzbizz.go:16.9,18.4 1 1
+goexercises/Fizzbizz.go:20.2,20.11 1 1
+goexercises/Frequency.go:3.41,5.45 2 1
+goexercises/Frequency.go:5.45,8.3 2 1
+goexercises/Frequency.go:9.2,9.13 1 1
+goexercises/Palindrome.go:7.31,9.35 2 1
+goexercises/Palindrome.go:9.35,12.3 2 1
+goexercises/Palindrome.go:13.2,13.21 1 1
+goexercises/Palindrome.go:16.32,20.2 3 1
+goexercises/Pangram.go:7.29,9.45 2 1
+goexercises/Pangram.go:9.45,10.43 1 1
+goexercises/Pangram.go:10.43,12.4 1 1
+goexercises/Pangram.go:14.2,14.13 1 1
+goexercises/main.go:7.13,22.2 9 0
