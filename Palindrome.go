@@ -14,6 +14,7 @@ func reverse(s string) string {
 }
 
 func palindrome(s string) bool {
+	s = strings.ToLower(s)
 	rev := reverse(s)
 	return rev == s
 }
