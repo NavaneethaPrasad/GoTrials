@@ -33,9 +33,9 @@ func TestAbbreviate(t *testing.T) {
 	if result != "IIM" {
 		t.Errorf("Expected IIM but got %s\n", result)
 	}
-	result = abbreviate("Automated Teller Machine")
+	result = abbreviate("Automated   Teller Machine")
 	if result == "atm" {
-		t.Errorf("Expected ATM   but got %s\n", result)
+		t.Errorf("Expected ATM but got %s\n", result)
 	}
 }
 
